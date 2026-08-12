@@ -1,0 +1,2 @@
+Iterative factorial functions generally use loops, are memory-efficient, and avoid stack overflow.
+Recursive factorial functions are more elegant and closer to the mathematical definition but can be less efficient and risk stack overflow on large inputs.
